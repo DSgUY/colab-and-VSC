@@ -33,4 +33,5 @@ It will configure workspace and ask for a python path: Select: /usr/bin/python\
 You will see that .vscode folder is now living in colab folder with a settings.json with this path.
 
 ### 8) Now yes.... yes
-Is everything ok the jupyter server is going to start. You can now use VSC code as your coding best friend and run your script on your colab ...your also best friend.
+Is everything ok the jupyter server is going to start.\
+You can now use VSC code as your coding best friend and run your script on your colab ...your also best friend.
