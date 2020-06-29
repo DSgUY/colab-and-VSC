@@ -1,10 +1,10 @@
 ### 1) Run the script
 This is a copy & paste & run script but you need to do 2 changes:\
-     <PASSWORD>: set your user passoword
-     <TOKEN>: paste your ngrok token
+     __- \<PASSWORD>__: set your user passoword
+     __- \<TOKEN>__: paste your ngrok token
 
 ### 2) Install Remote - SSH extension
-Then you have to open your VSC and install __Remote - SSH__ extension.
+Then you have to open your VSC and install __Remote - SSH__ extension.\
 https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
 
 ### 3) Edit the configuration file
