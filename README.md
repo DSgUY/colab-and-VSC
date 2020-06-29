@@ -13,7 +13,7 @@ Use Ctrl+Shift+P and search for: Command 'Remote-SSH: Open Configuration' and pa
 ### 4) Connect to colab
 Use Ctrl+Shift+P and search for: Command 'Remote-SSH: Connect to Host...'\
 Select colab-ssh.\
-Confirm that you have a LINUX server.
+Confirm that you have a LINUX server.\
 Enter the password that you change in the script.\
 Wait for VSCode to download some files to your colab folder to run the VSC server.
 
