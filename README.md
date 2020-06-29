@@ -1,7 +1,7 @@
 ### 1) Run the script
 This is a copy & paste & run script but you need to do 2 changes:\
-     1.__\<PASSWORD>__: set your user passoword
-     2.__\<TOKEN>__: paste your ngrok token
+     + __\<PASSWORD>__: set your user passoword
+     + __\<TOKEN>__: paste your ngrok token
 
 ### 2) Install Remote - SSH extension
 Then you have to open your VSC and install __Remote - SSH__ extension.\
