@@ -1,5 +1,5 @@
 ### 1) Run the script
-This is a copy & paste & run script but you need to do 2 changes:\
+This is a copy & paste & run script but you need to do 2 changes:
      * PASSWORD : set your user passoword
      * TOKEN : paste your ngrok token
 
