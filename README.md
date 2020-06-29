@@ -22,7 +22,7 @@ If everthing is ok you will see a pop-up to navigate trought google drive folder
 Load a jupyter notebook from drive/colab notebooks.
 
 ### 6) Installing Python extension on VSC server
-Before opening in the VSC workspance you need to install Python extension on the VSC server.\
+Before opening in the VSC workspance you need to install Python extension on the VSC server.
 Go yo extension tab on the left and search for Python extension.\
 You will see that is already installed in your local VSC but not in the server. Install it.
 
