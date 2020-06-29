@@ -14,21 +14,25 @@ Use Ctrl+Shift+P and search for: Command 'Remote-SSH: Open Configuration' and pa
 Use Ctrl+Shift+P and search for: Command 'Remote-SSH: Connect to Host...'\
 Select colab-ssh.\
 Confirm that you have a LINUX server.\
-Enter the password that you change in the script.\
+Confirm you want to CONTINUE.\
+Enter the password fot the one you change in the script.\
 Wait for VSCode to download some files to your colab folder to run the VSC server.
 
-### 5) Navigate to colab notebook folder
-If everthing is ok you will see a pop-up to navigate trought google drive folders.\
-Load a jupyter notebook from drive/colab notebooks.
-
-### 6) Installing Python extension on VSC server
+### 5) Installing Python extension on VSC server
 Before opening in the VSC workspace you need to install Python extension on the VSC server.\
 Go yo extension tab on the left and search for Python extension.\
 You will see that is already installed in your local VSC but not in the server.\
 Install it.
 
+### 6) Navigate to colab notebook folder
+If everthing is ok you will see a pop-up to navigate trought google drive folders.\
+If not, go to the Explorer tab on the left.\
+Select the path to: __/content/content/My Drive/Colab Notebooks/__ 
+Input your password.\
+Open a jupyter notebook.
+
 ### 7) Now yes....
-Open now your jupyter notebook. VSC code will do everthing you are use to.\
+VSC code will do everthing you are use to.\
 It will configure workspace and ask for a python path: Select: /usr/bin/python\
 You will see that .vscode folder is now living in colab folder with a settings.json with this path.
 
