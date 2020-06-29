@@ -27,7 +27,7 @@ Install it.
 ### 6) Navigate to colab notebook folder
 If everthing is ok you will see a pop-up to navigate trought google drive folders.\
 If not, go to the Explorer tab on the left.\
-Select the path to: __/content/content/My Drive/Colab Notebooks/__ 
+Select the path to: __/content/drive/My Drive/Colab Notebooks/__ 
 Input your password.\
 Open a jupyter notebook.
 
